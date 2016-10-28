@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a20b58247d7a7e98251712a9e5f62523c7b9b31b">
+        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ed1b840914b6762d491a09140ab9bde8fa156b9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c73e759616db96cd8a47786b11e67b9c7dc73807">
+        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_83145d88542834b63386ea401d188dfeadeba35a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_e71480ab77eaf10caf2079838cc097ee6cdd986b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_0de2eb4e676451fa005c016f3616d58b53f1ec87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_24c46cbde714be0842274322039416f341dd73a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_14ed91736e9ce1efd024b1affd9fc379418bd17b\classes.dex" />
+    </item>
+
+</items>

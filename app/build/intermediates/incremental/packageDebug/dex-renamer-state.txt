@@ -1,0 +1,7 @@
+#Fri Oct 21 19:07:54 EDT 2016
+base.0=C\:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ed1b840914b6762d491a09140ab9bde8fa156b9f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_83145d88542834b63386ea401d188dfeadeba35a\\classes.dex
+base.1=C\:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_83145d88542834b63386ea401d188dfeadeba35a
+file.0=C\:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ed1b840914b6762d491a09140ab9bde8fa156b9f\\classes.dex
