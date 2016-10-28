@@ -558,7 +558,7 @@ public final class R {
 		public static final int abc_config_activityShortDur = 0x7f090002;
 		public static final int abc_max_action_buttons = 0x7f090000;
 		public static final int cancel_button_image_alpha = 0x7f090003;
-		public static final int status_bar_notification_info_maxnum = 0x7f090004;
+		public static final int status_bar_notification_info_maxnum = 0x7f090005;
 	}
 	public static final class layout {
 		public static final int abc_action_bar_title_item = 0x7f030000;
@@ -619,7 +619,7 @@ public final class R {
 		public static final int abc_shareactionprovider_share_with = 0x7f050010;
 		public static final int abc_shareactionprovider_share_with_application = 0x7f050011;
 		public static final int abc_toolbar_collapse_description = 0x7f050012;
-		public static final int status_bar_notification_info_overflow = 0x7f050013;
+		public static final int status_bar_notification_info_overflow = 0x7f050014;
 	}
 	public static final class style {
 		public static final int AlertDialog_AppCompat = 0x7f08007d;
