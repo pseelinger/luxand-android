@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\debug\shaders"/></dataSet></merger>
