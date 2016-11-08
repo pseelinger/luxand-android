@@ -1,4 +1,4 @@
-#Thu Nov 03 19:07:53 EDT 2016
+#Tue Nov 08 00:04:04 EST 2016
 base.0=C\:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9febf3466c7dba8c77949b1f8e7d40be4fd8a6eb
 renamed.1=classes2.dex
 renamed.0=classes.dex

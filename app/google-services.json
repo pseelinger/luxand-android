@@ -10,10 +10,18 @@
       "client_info": {
         "mobilesdk_app_id": "1:578132882422:android:75e465d396a20be5",
         "android_client_info": {
-          "package_name": "com.luxand.facerecognition"
+          "package_name": "com.jomc660.arnold"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "578132882422-mpenvpu5d0rf241iha2b4haf04kklldp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jomc660.arnold",
+            "certificate_hash": "85D79A429B8B780A3C2FEFD3C138955541A44341"
+          }
+        },
         {
           "client_id": "578132882422-7ta696rd10dt1dckon0s3g33msug53vk.apps.googleusercontent.com",
           "client_type": 3
@@ -29,8 +37,57 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578132882422-7ta696rd10dt1dckon0s3g33msug53vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578132882422:android:3eca1efb690a95f8",
+        "android_client_info": {
+          "package_name": "com.luxand.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578132882422-5at1jisnub5r82bf00obokvptvjpu4b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luxand.facerecognition",
+            "certificate_hash": "85D79A429B8B780A3C2FEFD3C138955541A44341"
+          }
+        },
+        {
+          "client_id": "578132882422-7ta696rd10dt1dckon0s3g33msug53vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTU_k6ir5BqhvFjnv59l7GxUJlfdcxfZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578132882422-7ta696rd10dt1dckon0s3g33msug53vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2

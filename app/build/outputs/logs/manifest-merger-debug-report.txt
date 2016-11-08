@@ -38,6 +38,10 @@ MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Patrick Seeling
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:4:5-19
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:19:5-25:19
 	android:label
 		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:13:9-41
 	android:supportsRtl
@@ -75,6 +79,16 @@ MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\Patrick Seeling
 MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\AndroidManifest.xml:3:5-42
 MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\AndroidManifest.xml:17:5-42
 MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\AndroidManifest.xml:3:5-42
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
@@ -205,3 +219,29 @@ action#com.google.firebase.INSTANCE_ID_EVENT
 ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:46:17-79
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:46:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\AndroidManifest.xml:19:19-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:24:18-63

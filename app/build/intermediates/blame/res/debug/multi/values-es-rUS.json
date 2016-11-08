@@ -753,8 +753,141 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2098,
+                    "endColumn": 109,
+                    "endOffset": 2203
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 287,
+                        "endColumn": 105,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2208,
+                    "endColumn": 197,
+                    "endOffset": 2401
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 393,
+                        "endColumn": 197,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2406,
+                    "endColumn": 133,
+                    "endOffset": 2535
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 591,
+                        "endColumn": 129,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2540,
+                    "endColumn": 109,
+                    "endOffset": 2645
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 721,
+                        "endColumn": 105,
+                        "endOffset": 826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2650,
+                    "endColumn": 219,
+                    "endOffset": 2865
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 827,
+                        "endColumn": 219,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2870,
+                    "endColumn": 132,
+                    "endOffset": 2998
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1047,
+                        "endColumn": 128,
+                        "endOffset": 1175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3003,
+                    "endColumn": 134,
+                    "endOffset": 3133
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1176,
+                        "endColumn": 130,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3138,
                     "endColumn": 204,
-                    "endOffset": 2298
+                    "endOffset": 3338
                 },
                 "from": {
                     "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.8.0\\res\\values-es-rUS\\values.xml",
@@ -769,11 +902,182 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2303,
+                    "startOffset": 3343,
+                    "endColumn": 229,
+                    "endOffset": 3568
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1307,
+                        "endColumn": 229,
+                        "endOffset": 1536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3573,
+                    "endColumn": 110,
+                    "endOffset": 3679
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1537,
+                        "endColumn": 106,
+                        "endOffset": 1643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3684,
+                    "endColumn": 200,
+                    "endOffset": 3880
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1644,
+                        "endColumn": 200,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3885,
+                    "endColumn": 134,
+                    "endOffset": 4015
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1845,
+                        "endColumn": 130,
+                        "endOffset": 1975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4020,
+                    "endColumn": 235,
+                    "endOffset": 4251
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1976,
+                        "endColumn": 235,
+                        "endOffset": 2211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4256,
+                    "endColumn": 207,
+                    "endOffset": 4459
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2212,
+                        "endColumn": 203,
+                        "endOffset": 2415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4464,
+                    "endColumn": 99,
+                    "endOffset": 4559
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2416,
+                        "endColumn": 95,
+                        "endOffset": 2511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4564,
+                    "endColumn": 91,
+                    "endOffset": 4651
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2512,
+                        "endColumn": 87,
+                        "endOffset": 2599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4656,
+                    "endColumn": 106,
+                    "endOffset": 4758
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\values-es-rUS\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2600,
+                        "endColumn": 102,
+                        "endOffset": 2702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4763,
                     "endColumn": 100,
-                    "endOffset": 2399
+                    "endOffset": 4859
                 },
                 "from": {
                     "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-es-rUS\\values-es-rUS.xml",

@@ -24,6 +24,10 @@
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
         "merged": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
@@ -42,6 +46,10 @@
     {
         "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
@@ -64,6 +72,14 @@
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
@@ -84,12 +100,12 @@
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
@@ -104,8 +120,20 @@
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
@@ -118,6 +146,10 @@
     {
         "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
@@ -152,6 +184,14 @@
         "source": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
         "merged": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
     },
@@ -172,6 +212,10 @@
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
         "source": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
@@ -182,6 +226,10 @@
     {
         "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",

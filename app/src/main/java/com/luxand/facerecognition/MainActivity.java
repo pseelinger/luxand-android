@@ -1,12 +1,28 @@
 package com.luxand.facerecognition;
 
+import com.google.android.gms.auth.api.Auth;
+import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.auth.AuthResult;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageReference;
+import com.google.firebase.storage.UploadTask;
 import com.luxand.FSDK;
 import com.luxand.FSDK.HTracker;
 
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
+import java.io.IOException;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 import android.app.Activity;
@@ -23,7 +39,9 @@ import android.graphics.drawable.ColorDrawable;
 import android.hardware.Camera;
 import android.hardware.Camera.PreviewCallback;
 import android.hardware.Camera.Size;
+import android.net.Uri;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
@@ -35,17 +53,32 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.EditText;
+import android.widget.Toast;
+
+import static android.R.attr.password;
+import static com.google.android.gms.internal.zzs.TAG;
+
 
 public class MainActivity extends Activity implements OnClickListener {
+
+	FirebaseDatabase fDatabase = FirebaseDatabase.getInstance();
+	DatabaseReference userRef = fDatabase.getReference("user");
+	//Storage for Memory50.dat
+	FirebaseStorage storage = FirebaseStorage.getInstance();
+	StorageReference storageRef = storage.getReferenceFromUrl("gs://trial-project-80879.appspot.com");
+	StorageReference memoryRef = storageRef.child("Memory50.dat");
+
+	private DatabaseReference mDatabase;
 
     private boolean mIsFailed = false;
 	private Preview mPreview;
 	private ProcessImageAndDrawResults mDraw;
 	private final String database = "Memory50.dat";
 	private final String help_text = "Luxand Face Recognition\n\nJust tap any detected face and name it. The app will recognize this face further. For best results, hold the device at arm's length. You may slowly rotate the head for the app to memorize you at multiple views. The app can memorize several persons. If a face is not recognized, tap and name it again.\n\nThe SDK is available for mobile developers: www.luxand.com/facesdk";
-	
+
 	public static float sDensity = 1.0f;
-	
+
+
 	public void showErrorAndClose(String error, int code) {
 		AlertDialog.Builder builder = new AlertDialog.Builder(this);
 		builder.setMessage(error + ": " + code)
@@ -55,9 +88,9 @@ public class MainActivity extends Activity implements OnClickListener {
 					android.os.Process.killProcess(android.os.Process.myPid());
 				}
 			})
-			.show();		
+			.show();
 	}
-	
+
 	public void showMessage(String message) {
 		AlertDialog.Builder builder = new AlertDialog.Builder(this);
 		builder.setMessage(message)
@@ -67,9 +100,9 @@ public class MainActivity extends Activity implements OnClickListener {
 				}
 			})
 			.setCancelable(false) // cancel with button only
-			.show();		
+			.show();
 	}
-	
+
     private void resetTrackerParameters() {
 	    int errpos[] = new int[1];
         FSDK.SetTrackerMultipleParameters(mDraw.mTracker, "ContinuousVideoFeed=true;FacialFeatureJitterSuppression=0;RecognitionPrecision=1;Threshold=0.996;Threshold2=0.9995;ThresholdFeed=0.97;MemoryLimit=2000;HandleArbitraryRotations=false;DetermineFaceRotationAngle=false;InternalResizeWidth=70;FaceDetectionThreshold=3;", errpos);
@@ -77,24 +110,26 @@ public class MainActivity extends Activity implements OnClickListener {
             showErrorAndClose("Error setting tracker parameters, position", errpos[0]);
         }
 	}
-	
+
 	/** Called when the activity is first created. */
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
+
 		super.onCreate(savedInstanceState);
 		sDensity = getResources().getDisplayMetrics().scaledDensity;
-		
+
+
 		int res = FSDK.ActivateLibrary("icB/ExV1a/KMgqIy/nBStzbfiZZzgHiV+XaK9iJN+DhwVgrVyC1X2EeH8rmM8okUzLGuhOa5aYegcdqtTiTyOQoxOpOa1+Esh+zj5AyEBmQjzQ+S8RNC7FMVCNOQW3MplfUaDFugFS3PqRAbAbKwEJ0gCadZFNcOipkZGfo/DCk=");
         if (res != FSDK.FSDKE_OK) {
             mIsFailed = true;
             showErrorAndClose("FaceSDK activation failed", res);
 		} else {
 	        FSDK.Initialize();
-	        
+
 			// Hide the window title (it is done in manifest too)
 			getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 			requestWindowFeature(Window.FEATURE_NO_TITLE);
-			
+
 			// Lock orientation
 			setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
@@ -111,21 +146,21 @@ public class MainActivity extends Activity implements OnClickListener {
 			}
 
 	        resetTrackerParameters();
-	        
+
 	        this.getWindow().setBackgroundDrawable(new ColorDrawable()); //black background
-	        			
+
 	        setContentView(mPreview); //creates MainActivity contents
 			addContentView(mDraw, new LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT));
-			
+
 
 			// Menu
 			LayoutInflater inflater = (LayoutInflater)this.getSystemService( Context.LAYOUT_INFLATER_SERVICE );
 			View buttons = inflater.inflate(R.layout.bottom_menu, null );
 			buttons.findViewById(R.id.helpButton).setOnClickListener(this);
-			buttons.findViewById(R.id.clearButton).setOnClickListener(this);			
+			buttons.findViewById(R.id.clearButton).setOnClickListener(this);
 			addContentView(buttons, new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT));
-			
-		}                
+
+		}
 	}
 
 	@Override
@@ -151,15 +186,20 @@ public class MainActivity extends Activity implements OnClickListener {
 				.show();
 		}
 	}
-	
+
 	@Override
 	public void onPause() {
 		super.onPause();
 		pauseProcessingFrames();
 		String templatePath = this.getApplicationInfo().dataDir + "/" + database;
-		FSDK.SaveTrackerMemoryToFile(mDraw.mTracker, templatePath);		
+		FSDK.SaveTrackerMemoryToFile(mDraw.mTracker, templatePath);
+		Uri file = Uri.fromFile(new File(templatePath));
+		memoryRef = storageRef.child(file.getLastPathSegment());
+		UploadTask upload =  memoryRef.putFile(file);
+
+
 	}
-	
+
 	@Override
 	public void onResume() {
 		super.onResume();
@@ -167,18 +207,17 @@ public class MainActivity extends Activity implements OnClickListener {
             return;
         resumeProcessingFrames();
 	}
-	
+
 	private void pauseProcessingFrames() {
 		mDraw.mStopping = 1;
-		
+
 		// It is essential to limit wait time, because mStopped will not be set to 0, if no frames are feeded to mDraw
 		for (int i=0; i<100; ++i) {
-			if (mDraw.mStopped != 0) break; 
+			if (mDraw.mStopped != 0) break;
 			try { Thread.sleep(10); }
 			catch (Exception ex) {}
 		}
 	}
-	
 	private void resumeProcessingFrames() {
 		mDraw.mStopped = 0;
 		mDraw.mStopping = 0;
