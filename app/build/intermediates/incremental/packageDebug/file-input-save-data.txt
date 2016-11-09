@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Nov 08 00:04:04 EST 2016
+#Tue Nov 08 00:18:25 EST 2016
 210.set=DEX
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\anim\\abc_slide_out_bottom.xml

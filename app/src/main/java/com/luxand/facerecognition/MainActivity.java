@@ -138,6 +138,15 @@ public class MainActivity extends Activity implements OnClickListener {
 			mPreview = new Preview(this, mDraw);
 			mDraw.mTracker = new HTracker();
 			String templatePath = this.getApplicationInfo().dataDir + "/" + database;
+			//handles downloading the file from Google Cloud
+			String localPath = this.getApplicationInfo().dataDir + "/Memory50";
+			try {
+				File localFile = File.createTempFile(localPath, "dat");
+				memoryRef.getFile(localFile);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			//check if tracker already exists, if not make a new one
 			if (FSDK.FSDKE_OK != FSDK.LoadTrackerMemoryFromFile(mDraw.mTracker, templatePath)) {
 				res = FSDK.CreateTracker(mDraw.mTracker);
 		        if (FSDK.FSDKE_OK != res) {
