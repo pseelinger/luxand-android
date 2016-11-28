@@ -1,390 +1,5 @@
 [
     {
-        "outputFile": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 115,
-                    "endOffset": 166
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 287,
-                        "endColumn": 115,
-                        "endOffset": 398
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 171,
-                    "endColumn": 107,
-                    "endOffset": 274
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 403,
-                        "endColumn": 107,
-                        "endOffset": 506
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 279,
-                    "endColumn": 122,
-                    "endOffset": 397
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 511,
-                        "endColumn": 122,
-                        "endOffset": 629
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 402,
-                    "endColumn": 100,
-                    "endOffset": 498
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 634,
-                        "endColumn": 100,
-                        "endOffset": 730
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 503,
-                    "endColumn": 112,
-                    "endOffset": 611
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 735,
-                        "endColumn": 112,
-                        "endOffset": 843
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 616,
-                    "endColumn": 86,
-                    "endOffset": 698
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 848,
-                        "endColumn": 86,
-                        "endOffset": 930
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 703,
-                    "endColumn": 108,
-                    "endOffset": 807
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 935,
-                        "endColumn": 108,
-                        "endOffset": 1039
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 812,
-                    "endColumn": 120,
-                    "endOffset": 928
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1044,
-                        "endColumn": 120,
-                        "endOffset": 1160
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 933,
-                    "endColumn": 81,
-                    "endOffset": 1010
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1165,
-                        "endColumn": 81,
-                        "endOffset": 1242
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1015,
-                    "endColumn": 80,
-                    "endOffset": 1091
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1247,
-                        "endColumn": 80,
-                        "endOffset": 1323
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1096,
-                    "endColumn": 84,
-                    "endOffset": 1176
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1328,
-                        "endColumn": 84,
-                        "endOffset": 1408
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1181,
-                    "endColumn": 108,
-                    "endOffset": 1285
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1413,
-                        "endColumn": 108,
-                        "endOffset": 1517
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1290,
-                    "endColumn": 108,
-                    "endOffset": 1394
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1522,
-                        "endColumn": 108,
-                        "endOffset": 1626
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1399,
-                    "endColumn": 99,
-                    "endOffset": 1494
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1631,
-                        "endColumn": 99,
-                        "endOffset": 1726
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1499,
-                    "endColumn": 109,
-                    "endOffset": 1604
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1731,
-                        "endColumn": 109,
-                        "endOffset": 1836
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1609,
-                    "endColumn": 103,
-                    "endOffset": 1708
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1841,
-                        "endColumn": 103,
-                        "endOffset": 1940
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1713,
-                    "endColumn": 112,
-                    "endOffset": 1821
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1945,
-                        "endColumn": 112,
-                        "endOffset": 2053
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1826,
-                    "endColumn": 129,
-                    "endOffset": 1951
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2058,
-                        "endColumn": 129,
-                        "endOffset": 2183
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1956,
-                    "endColumn": 100,
-                    "endOffset": 2052
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2188,
-                        "endColumn": 100,
-                        "endOffset": 2284
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2057,
-                    "endColumn": 100,
-                    "endOffset": 2153
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2289,
-                        "endColumn": 100,
-                        "endOffset": 2385
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
         "map": [
             {
@@ -396,13 +11,13 @@
                     "endOffset": 216
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 287,
+                        "startOffset": 55,
                         "endColumn": 115,
-                        "endOffset": 398
+                        "endOffset": 166
                     }
                 }
             },
@@ -415,13 +30,13 @@
                     "endOffset": 324
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 403,
+                        "startOffset": 171,
                         "endColumn": 107,
-                        "endOffset": 506
+                        "endOffset": 274
                     }
                 }
             },
@@ -434,13 +49,13 @@
                     "endOffset": 447
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 511,
+                        "startOffset": 279,
                         "endColumn": 122,
-                        "endOffset": 629
+                        "endOffset": 397
                     }
                 }
             },
@@ -453,13 +68,13 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 634,
+                        "startOffset": 402,
                         "endColumn": 100,
-                        "endOffset": 730
+                        "endOffset": 498
                     }
                 }
             },
@@ -472,13 +87,13 @@
                     "endOffset": 661
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 735,
+                        "startOffset": 503,
                         "endColumn": 112,
-                        "endOffset": 843
+                        "endOffset": 611
                     }
                 }
             },
@@ -491,13 +106,13 @@
                     "endOffset": 748
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 848,
+                        "startOffset": 616,
                         "endColumn": 86,
-                        "endOffset": 930
+                        "endOffset": 698
                     }
                 }
             },
@@ -510,13 +125,13 @@
                     "endOffset": 857
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 935,
+                        "startOffset": 703,
                         "endColumn": 108,
-                        "endOffset": 1039
+                        "endOffset": 807
                     }
                 }
             },
@@ -529,13 +144,13 @@
                     "endOffset": 978
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1044,
+                        "startOffset": 812,
                         "endColumn": 120,
-                        "endOffset": 1160
+                        "endOffset": 928
                     }
                 }
             },
@@ -548,13 +163,13 @@
                     "endOffset": 1060
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1165,
+                        "startOffset": 933,
                         "endColumn": 81,
-                        "endOffset": 1242
+                        "endOffset": 1010
                     }
                 }
             },
@@ -567,13 +182,13 @@
                     "endOffset": 1141
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1247,
+                        "startOffset": 1015,
                         "endColumn": 80,
-                        "endOffset": 1323
+                        "endOffset": 1091
                     }
                 }
             },
@@ -586,13 +201,13 @@
                     "endOffset": 1226
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1328,
+                        "startOffset": 1096,
                         "endColumn": 84,
-                        "endOffset": 1408
+                        "endOffset": 1176
                     }
                 }
             },
@@ -605,13 +220,13 @@
                     "endOffset": 1335
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1413,
+                        "startOffset": 1181,
                         "endColumn": 108,
-                        "endOffset": 1517
+                        "endOffset": 1285
                     }
                 }
             },
@@ -624,13 +239,13 @@
                     "endOffset": 1444
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1522,
+                        "startOffset": 1290,
                         "endColumn": 108,
-                        "endOffset": 1626
+                        "endOffset": 1394
                     }
                 }
             },
@@ -643,13 +258,13 @@
                     "endOffset": 1544
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1631,
+                        "startOffset": 1399,
                         "endColumn": 99,
-                        "endOffset": 1726
+                        "endOffset": 1494
                     }
                 }
             },
@@ -662,13 +277,13 @@
                     "endOffset": 1654
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1731,
+                        "startOffset": 1499,
                         "endColumn": 109,
-                        "endOffset": 1836
+                        "endOffset": 1604
                     }
                 }
             },
@@ -681,13 +296,13 @@
                     "endOffset": 1758
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1841,
+                        "startOffset": 1609,
                         "endColumn": 103,
-                        "endOffset": 1940
+                        "endOffset": 1708
                     }
                 }
             },
@@ -700,13 +315,13 @@
                     "endOffset": 1871
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1945,
+                        "startOffset": 1713,
                         "endColumn": 112,
-                        "endOffset": 2053
+                        "endOffset": 1821
                     }
                 }
             },
@@ -719,13 +334,13 @@
                     "endOffset": 2001
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2058,
+                        "startOffset": 1826,
                         "endColumn": 129,
-                        "endOffset": 2183
+                        "endOffset": 1951
                     }
                 }
             },
@@ -738,13 +353,13 @@
                     "endOffset": 2102
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2188,
+                        "startOffset": 1956,
                         "endColumn": 100,
-                        "endOffset": 2284
+                        "endOffset": 2052
                     }
                 }
             },
@@ -1076,17 +691,36 @@
                     "startLine": 38,
                     "startColumn": 4,
                     "startOffset": 4713,
-                    "endColumn": 100,
-                    "endOffset": 4809
+                    "endColumn": 82,
+                    "endOffset": 4791
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lt\\values-lt.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2289,
+                        "startOffset": 2057,
+                        "endColumn": 82,
+                        "endOffset": 2135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4796,
+                    "endColumn": 100,
+                    "endOffset": 4892
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lt\\values-lt.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2140,
                         "endColumn": 100,
-                        "endOffset": 2385
+                        "endOffset": 2236
                     }
                 }
             }

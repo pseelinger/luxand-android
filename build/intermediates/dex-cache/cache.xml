@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_82d30e4db664587da4a4ab2dd0eecb74d3d0f4dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -12,30 +21,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_0de2eb4e676451fa005c016f3616d58b53f1ec87\classes.dex" />
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1c3fd0b56e9dd0feacd53907f0e478205fddd1df\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_14ed91736e9ce1efd024b1affd9fc379418bd17b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_2dff06d881bd6078dd864a742051ec412a95a8c0\classes.dex" />
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_229ea560a9e83bd14bfd2683f051ee238c4392b0\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,57 +48,48 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="c73e759616db96cd8a47786b11e67b9c7dc73807">
-        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_83145d88542834b63386ea401d188dfeadeba35a\classes.dex" />
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_2e49f07d46bc0caa7038beefe1ff37d876d38180\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_cad8fba5dd806af206bf8bc2049feae17f6a637d\classes.dex" />
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ecbb8f30acd75160cdaba076216c10cc36a1d5a8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_24c46cbde714be0842274322039416f341dd73a0\classes.dex" />
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_751702f8343a81c548ea2b729636ef2df0793374\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Patrick Seelinger\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="a20b58247d7a7e98251712a9e5f62523c7b9b31b">
-        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ed1b840914b6762d491a09140ab9bde8fa156b9f\classes.dex" />
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-13.0_fbb96af2fa6d291f720c1558463afa0e5b45d056\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jar="C:\Users\Patrick Seelinger\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.20.0\93d82db2bca534960253f43424b2ba9d7638b4d2\google-http-client-1.20.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_748b077f5abfde6a5f43ce05652c75aec7631002\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="40edf43b687f68e77dd1cafb4b6d7d8486b0c735">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9febf3466c7dba8c77949b1f8e7d40be4fd8a6eb\classes.dex" />
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.20.0_8610429219050451538d20ddc47ad1654258d061\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -108,42 +99,6 @@
         revision="23.0.1"
         sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
         <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_fe7694a683ae624a14fd4da42f879ee3f8a12e38\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_90b729938737f784533459a5c57331d693e76afb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="190a642ba16d1421296a4d794606279b80039c59">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_8f000529e29f30d4920c8a0bcb8eafb8f759745e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_4aade8789db39c04e09d7c221c38b7891e320722\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.1"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_41978001073a401298074043c4800c44696e9f10\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -165,21 +120,192 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_e71480ab77eaf10caf2079838cc097ee6cdd986b\classes.dex" />
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jar="C:\Users\Patrick Seelinger\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_fe7480820c20c289a17422f6ee907fbcc1697ea1\classes.dex" />
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_c62fbbb9b45cc2f815790ccf28884144d91d17ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.20.0_2c28fdb31804908c2bae972d8748fe828193e272\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.20.0\1d086ac5756475ddf451af2e2df6e288d18608ca\google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.20.0_3542dea1df56b9a1f2865eea9e7b3d178f5acafa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_266c69f52d82439d2ea18a582de9733bb2eec871\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_0d72dde6b0a655426a7c8695b1a76117b1977182\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_3b8d4788bd840c6b1f29146f13158a6b15c34e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_46a4210c43707112ac0f6ad0ee4746ddb688d070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_c544374971b036ec1e98742649e8497862821501\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.20.0_74eb3862d538f4584fd600cfb6251a4ddcd59e82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_8faae007a2351a473f84e4e30cbd67dbf76c88e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_53754a5c97c9fa090fe36efbf22e72108fae9934\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_2dff06d881bd6078dd864a742051ec412a95a8c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_cad8fba5dd806af206bf8bc2049feae17f6a637d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_14f368c3ad7210a5777c7ee1ff72b5d004111389\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fd2ec3c698966e80721a90fd71cdb62bfdfe36a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4cab15ccf5cde26b80020ac4cf84dd5e20756934\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="31bfca977ccf7ebe9f773542bd59656dd9fb5d74">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9febf3466c7dba8c77949b1f8e7d40be4fd8a6eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_90b729938737f784533459a5c57331d693e76afb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_8f000529e29f30d4920c8a0bcb8eafb8f759745e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_9ab47c4c6c4f3cf80b056ea2f863df87d882edeb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -187,7 +313,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="07d922118b2dcd55d576991fd95b2639499807ae">
+        sha1="114872cec1ad430e2f0cb421a1cd2d8e85de8ed3">
         <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_55913e1071b8d56ffe4691087e7329c7c4ff78ba\classes.dex" />
     </item>
     <item
@@ -210,21 +336,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jar="C:\Users\Patrick Seelinger\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.20.0\2408070b2abec043624d35b35e30450f1b663858\google-http-client-jackson2-1.20.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_0d72dde6b0a655426a7c8695b1a76117b1977182\classes.dex" />
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.20.0_e61b6ca5b66d480289a31700e6d389113a593e45\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jar="C:\Users\Patrick Seelinger\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.20.0\d3e66209ae9e749b2d6833761e7885f60f285564\google-api-client-1.20.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_e9b62e16c72edb045e396641baf4dec01b94357c\classes.dex" />
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.20.0_3def1c2cc63252daa1b4140e221291ce9820afa5\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -237,21 +363,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_3b8d4788bd840c6b1f29146f13158a6b15c34e30\classes.dex" />
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ccf8b53a42745c3968327f1e96a3e42e731f462c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jar="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
-        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_46a4210c43707112ac0f6ad0ee4746ddb688d070\classes.dex" />
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_e9b62e16c72edb045e396641baf4dec01b94357c\classes.dex" />
     </item>
 
 </items>

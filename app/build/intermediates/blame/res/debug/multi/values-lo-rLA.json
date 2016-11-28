@@ -1,390 +1,5 @@
 [
     {
-        "outputFile": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo-rLA\\values-lo-rLA.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 102,
-                    "endOffset": 153
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 102,
-                        "endOffset": 389
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 158,
-                    "endColumn": 107,
-                    "endOffset": 261
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 394,
-                        "endColumn": 107,
-                        "endOffset": 497
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 266,
-                    "endColumn": 122,
-                    "endOffset": 384
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 502,
-                        "endColumn": 122,
-                        "endOffset": 620
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 389,
-                    "endColumn": 96,
-                    "endOffset": 481
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 625,
-                        "endColumn": 96,
-                        "endOffset": 717
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 486,
-                    "endColumn": 106,
-                    "endOffset": 588
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 722,
-                        "endColumn": 106,
-                        "endOffset": 824
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 593,
-                    "endColumn": 84,
-                    "endOffset": 673
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 829,
-                        "endColumn": 84,
-                        "endOffset": 909
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 678,
-                    "endColumn": 104,
-                    "endOffset": 778
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 914,
-                        "endColumn": 104,
-                        "endOffset": 1014
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 783,
-                    "endColumn": 111,
-                    "endOffset": 890
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1019,
-                        "endColumn": 111,
-                        "endOffset": 1126
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 895,
-                    "endColumn": 76,
-                    "endOffset": 967
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1131,
-                        "endColumn": 76,
-                        "endOffset": 1203
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 972,
-                    "endColumn": 77,
-                    "endOffset": 1045
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1208,
-                        "endColumn": 77,
-                        "endOffset": 1281
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1050,
-                    "endColumn": 79,
-                    "endOffset": 1125
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1286,
-                        "endColumn": 79,
-                        "endOffset": 1361
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1130,
-                    "endColumn": 106,
-                    "endOffset": 1232
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1366,
-                        "endColumn": 106,
-                        "endOffset": 1468
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1237,
-                    "endColumn": 96,
-                    "endOffset": 1329
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1473,
-                        "endColumn": 96,
-                        "endOffset": 1565
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1334,
-                    "endColumn": 97,
-                    "endOffset": 1427
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1570,
-                        "endColumn": 97,
-                        "endOffset": 1663
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1432,
-                    "endColumn": 104,
-                    "endOffset": 1532
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1668,
-                        "endColumn": 104,
-                        "endOffset": 1768
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1537,
-                    "endColumn": 102,
-                    "endOffset": 1635
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1773,
-                        "endColumn": 102,
-                        "endOffset": 1871
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1640,
-                    "endColumn": 103,
-                    "endOffset": 1739
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1876,
-                        "endColumn": 103,
-                        "endOffset": 1975
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1744,
-                    "endColumn": 121,
-                    "endOffset": 1861
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1980,
-                        "endColumn": 121,
-                        "endOffset": 2097
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1866,
-                    "endColumn": 95,
-                    "endOffset": 1957
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2102,
-                        "endColumn": 95,
-                        "endOffset": 2193
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1962,
-                    "endColumn": 100,
-                    "endOffset": 2058
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2198,
-                        "endColumn": 100,
-                        "endOffset": 2294
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo-rLA\\values-lo-rLA.xml",
         "map": [
             {
@@ -396,13 +11,13 @@
                     "endOffset": 153
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 55,
                         "endColumn": 102,
-                        "endOffset": 389
+                        "endOffset": 153
                     }
                 }
             },
@@ -415,13 +30,13 @@
                     "endOffset": 261
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 394,
+                        "startOffset": 158,
                         "endColumn": 107,
-                        "endOffset": 497
+                        "endOffset": 261
                     }
                 }
             },
@@ -434,13 +49,13 @@
                     "endOffset": 384
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 502,
+                        "startOffset": 266,
                         "endColumn": 122,
-                        "endOffset": 620
+                        "endOffset": 384
                     }
                 }
             },
@@ -453,13 +68,13 @@
                     "endOffset": 481
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 625,
+                        "startOffset": 389,
                         "endColumn": 96,
-                        "endOffset": 717
+                        "endOffset": 481
                     }
                 }
             },
@@ -472,13 +87,13 @@
                     "endOffset": 588
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 722,
+                        "startOffset": 486,
                         "endColumn": 106,
-                        "endOffset": 824
+                        "endOffset": 588
                     }
                 }
             },
@@ -491,13 +106,13 @@
                     "endOffset": 673
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 829,
+                        "startOffset": 593,
                         "endColumn": 84,
-                        "endOffset": 909
+                        "endOffset": 673
                     }
                 }
             },
@@ -510,13 +125,13 @@
                     "endOffset": 778
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 914,
+                        "startOffset": 678,
                         "endColumn": 104,
-                        "endOffset": 1014
+                        "endOffset": 778
                     }
                 }
             },
@@ -529,13 +144,13 @@
                     "endOffset": 890
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1019,
+                        "startOffset": 783,
                         "endColumn": 111,
-                        "endOffset": 1126
+                        "endOffset": 890
                     }
                 }
             },
@@ -548,13 +163,13 @@
                     "endOffset": 967
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1131,
+                        "startOffset": 895,
                         "endColumn": 76,
-                        "endOffset": 1203
+                        "endOffset": 967
                     }
                 }
             },
@@ -567,13 +182,13 @@
                     "endOffset": 1045
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1208,
+                        "startOffset": 972,
                         "endColumn": 77,
-                        "endOffset": 1281
+                        "endOffset": 1045
                     }
                 }
             },
@@ -586,13 +201,13 @@
                     "endOffset": 1125
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1286,
+                        "startOffset": 1050,
                         "endColumn": 79,
-                        "endOffset": 1361
+                        "endOffset": 1125
                     }
                 }
             },
@@ -605,13 +220,13 @@
                     "endOffset": 1232
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1366,
+                        "startOffset": 1130,
                         "endColumn": 106,
-                        "endOffset": 1468
+                        "endOffset": 1232
                     }
                 }
             },
@@ -624,13 +239,13 @@
                     "endOffset": 1329
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1473,
+                        "startOffset": 1237,
                         "endColumn": 96,
-                        "endOffset": 1565
+                        "endOffset": 1329
                     }
                 }
             },
@@ -643,13 +258,13 @@
                     "endOffset": 1427
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1570,
+                        "startOffset": 1334,
                         "endColumn": 97,
-                        "endOffset": 1663
+                        "endOffset": 1427
                     }
                 }
             },
@@ -662,13 +277,13 @@
                     "endOffset": 1532
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1668,
+                        "startOffset": 1432,
                         "endColumn": 104,
-                        "endOffset": 1768
+                        "endOffset": 1532
                     }
                 }
             },
@@ -681,13 +296,13 @@
                     "endOffset": 1635
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1773,
+                        "startOffset": 1537,
                         "endColumn": 102,
-                        "endOffset": 1871
+                        "endOffset": 1635
                     }
                 }
             },
@@ -700,13 +315,13 @@
                     "endOffset": 1739
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1876,
+                        "startOffset": 1640,
                         "endColumn": 103,
-                        "endOffset": 1975
+                        "endOffset": 1739
                     }
                 }
             },
@@ -719,13 +334,13 @@
                     "endOffset": 1861
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1980,
+                        "startOffset": 1744,
                         "endColumn": 121,
-                        "endOffset": 2097
+                        "endOffset": 1861
                     }
                 }
             },
@@ -738,13 +353,13 @@
                     "endOffset": 1957
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2102,
+                        "startOffset": 1866,
                         "endColumn": 95,
-                        "endOffset": 2193
+                        "endOffset": 1957
                     }
                 }
             },
@@ -753,17 +368,36 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 1962,
-                    "endColumn": 100,
-                    "endOffset": 2058
+                    "endColumn": 80,
+                    "endOffset": 2038
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2198,
+                        "startOffset": 1962,
+                        "endColumn": 80,
+                        "endOffset": 2038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2043,
+                    "endColumn": 100,
+                    "endOffset": 2139
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-lo-rLA\\values-lo-rLA.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2043,
                         "endColumn": 100,
-                        "endOffset": 2294
+                        "endOffset": 2139
                     }
                 }
             }

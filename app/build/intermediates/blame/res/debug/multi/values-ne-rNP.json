@@ -1,390 +1,5 @@
 [
     {
-        "outputFile": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne-rNP\\values-ne-rNP.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 104,
-                    "endOffset": 155
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 104,
-                        "endOffset": 391
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 160,
-                    "endColumn": 107,
-                    "endOffset": 263
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 396,
-                        "endColumn": 107,
-                        "endOffset": 499
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 268,
-                    "endColumn": 122,
-                    "endOffset": 386
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 504,
-                        "endColumn": 122,
-                        "endOffset": 622
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 391,
-                    "endColumn": 103,
-                    "endOffset": 490
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 627,
-                        "endColumn": 103,
-                        "endOffset": 726
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 495,
-                    "endColumn": 107,
-                    "endOffset": 598
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 731,
-                        "endColumn": 107,
-                        "endOffset": 834
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 603,
-                    "endColumn": 90,
-                    "endOffset": 689
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 839,
-                        "endColumn": 90,
-                        "endOffset": 925
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 694,
-                    "endColumn": 106,
-                    "endOffset": 796
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 930,
-                        "endColumn": 106,
-                        "endOffset": 1032
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 801,
-                    "endColumn": 126,
-                    "endOffset": 923
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1037,
-                        "endColumn": 126,
-                        "endOffset": 1159
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 928,
-                    "endColumn": 93,
-                    "endOffset": 1017
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1164,
-                        "endColumn": 93,
-                        "endOffset": 1253
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1022,
-                    "endColumn": 89,
-                    "endOffset": 1107
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1258,
-                        "endColumn": 89,
-                        "endOffset": 1343
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1112,
-                    "endColumn": 87,
-                    "endOffset": 1195
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1348,
-                        "endColumn": 87,
-                        "endOffset": 1431
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1200,
-                    "endColumn": 109,
-                    "endOffset": 1305
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1436,
-                        "endColumn": 109,
-                        "endOffset": 1541
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1310,
-                    "endColumn": 115,
-                    "endOffset": 1421
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1546,
-                        "endColumn": 115,
-                        "endOffset": 1657
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1426,
-                    "endColumn": 102,
-                    "endOffset": 1524
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1662,
-                        "endColumn": 102,
-                        "endOffset": 1760
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1529,
-                    "endColumn": 114,
-                    "endOffset": 1639
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1765,
-                        "endColumn": 114,
-                        "endOffset": 1875
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1644,
-                    "endColumn": 101,
-                    "endOffset": 1741
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1880,
-                        "endColumn": 101,
-                        "endOffset": 1977
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1746,
-                    "endColumn": 114,
-                    "endOffset": 1856
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1982,
-                        "endColumn": 114,
-                        "endOffset": 2092
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1861,
-                    "endColumn": 130,
-                    "endOffset": 1987
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2097,
-                        "endColumn": 130,
-                        "endOffset": 2223
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1992,
-                    "endColumn": 111,
-                    "endOffset": 2099
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2228,
-                        "endColumn": 111,
-                        "endOffset": 2335
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2104,
-                    "endColumn": 100,
-                    "endOffset": 2200
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2340,
-                        "endColumn": 100,
-                        "endOffset": 2436
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne-rNP\\values-ne-rNP.xml",
         "map": [
             {
@@ -396,13 +11,13 @@
                     "endOffset": 155
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 55,
                         "endColumn": 104,
-                        "endOffset": 391
+                        "endOffset": 155
                     }
                 }
             },
@@ -415,13 +30,13 @@
                     "endOffset": 263
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 396,
+                        "startOffset": 160,
                         "endColumn": 107,
-                        "endOffset": 499
+                        "endOffset": 263
                     }
                 }
             },
@@ -434,13 +49,13 @@
                     "endOffset": 386
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 504,
+                        "startOffset": 268,
                         "endColumn": 122,
-                        "endOffset": 622
+                        "endOffset": 386
                     }
                 }
             },
@@ -453,13 +68,13 @@
                     "endOffset": 490
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 627,
+                        "startOffset": 391,
                         "endColumn": 103,
-                        "endOffset": 726
+                        "endOffset": 490
                     }
                 }
             },
@@ -472,13 +87,13 @@
                     "endOffset": 598
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 731,
+                        "startOffset": 495,
                         "endColumn": 107,
-                        "endOffset": 834
+                        "endOffset": 598
                     }
                 }
             },
@@ -491,13 +106,13 @@
                     "endOffset": 689
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 839,
+                        "startOffset": 603,
                         "endColumn": 90,
-                        "endOffset": 925
+                        "endOffset": 689
                     }
                 }
             },
@@ -510,13 +125,13 @@
                     "endOffset": 796
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 930,
+                        "startOffset": 694,
                         "endColumn": 106,
-                        "endOffset": 1032
+                        "endOffset": 796
                     }
                 }
             },
@@ -529,13 +144,13 @@
                     "endOffset": 923
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1037,
+                        "startOffset": 801,
                         "endColumn": 126,
-                        "endOffset": 1159
+                        "endOffset": 923
                     }
                 }
             },
@@ -548,13 +163,13 @@
                     "endOffset": 1017
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1164,
+                        "startOffset": 928,
                         "endColumn": 93,
-                        "endOffset": 1253
+                        "endOffset": 1017
                     }
                 }
             },
@@ -567,13 +182,13 @@
                     "endOffset": 1107
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1258,
+                        "startOffset": 1022,
                         "endColumn": 89,
-                        "endOffset": 1343
+                        "endOffset": 1107
                     }
                 }
             },
@@ -586,13 +201,13 @@
                     "endOffset": 1195
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1348,
+                        "startOffset": 1112,
                         "endColumn": 87,
-                        "endOffset": 1431
+                        "endOffset": 1195
                     }
                 }
             },
@@ -605,13 +220,13 @@
                     "endOffset": 1305
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1436,
+                        "startOffset": 1200,
                         "endColumn": 109,
-                        "endOffset": 1541
+                        "endOffset": 1305
                     }
                 }
             },
@@ -624,13 +239,13 @@
                     "endOffset": 1421
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1546,
+                        "startOffset": 1310,
                         "endColumn": 115,
-                        "endOffset": 1657
+                        "endOffset": 1421
                     }
                 }
             },
@@ -643,13 +258,13 @@
                     "endOffset": 1524
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1662,
+                        "startOffset": 1426,
                         "endColumn": 102,
-                        "endOffset": 1760
+                        "endOffset": 1524
                     }
                 }
             },
@@ -662,13 +277,13 @@
                     "endOffset": 1639
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1765,
+                        "startOffset": 1529,
                         "endColumn": 114,
-                        "endOffset": 1875
+                        "endOffset": 1639
                     }
                 }
             },
@@ -681,13 +296,13 @@
                     "endOffset": 1741
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1880,
+                        "startOffset": 1644,
                         "endColumn": 101,
-                        "endOffset": 1977
+                        "endOffset": 1741
                     }
                 }
             },
@@ -700,13 +315,13 @@
                     "endOffset": 1856
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1982,
+                        "startOffset": 1746,
                         "endColumn": 114,
-                        "endOffset": 2092
+                        "endOffset": 1856
                     }
                 }
             },
@@ -719,13 +334,13 @@
                     "endOffset": 1987
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2097,
+                        "startOffset": 1861,
                         "endColumn": 130,
-                        "endOffset": 2223
+                        "endOffset": 1987
                     }
                 }
             },
@@ -738,13 +353,13 @@
                     "endOffset": 2099
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2228,
+                        "startOffset": 1992,
                         "endColumn": 111,
-                        "endOffset": 2335
+                        "endOffset": 2099
                     }
                 }
             },
@@ -753,17 +368,36 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2104,
-                    "endColumn": 100,
-                    "endOffset": 2200
+                    "endColumn": 85,
+                    "endOffset": 2185
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2340,
+                        "startOffset": 2104,
+                        "endColumn": 85,
+                        "endOffset": 2185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2190,
+                    "endColumn": 100,
+                    "endOffset": 2286
+                },
+                "from": {
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2190,
                         "endColumn": 100,
-                        "endOffset": 2436
+                        "endOffset": 2286
                     }
                 }
             }

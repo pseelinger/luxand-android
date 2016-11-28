@@ -1,35 +1,29 @@
 package com.luxand.facerecognition;
 
-import com.google.android.gms.auth.api.Auth;
-import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
-import com.google.android.gms.common.api.GoogleApiClient;
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.Task;
-import com.google.firebase.auth.AuthResult;
-import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.auth.FirebaseUser;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.storage.FileDownloadTask;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
 import com.luxand.FSDK;
 import com.luxand.FSDK.HTracker;
 
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.app.Application;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.pm.ActivityInfo;
+import android.content.pm.PackageManager;
 import android.content.res.Configuration;
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -40,8 +34,12 @@ import android.hardware.Camera;
 import android.hardware.Camera.PreviewCallback;
 import android.hardware.Camera.Size;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
+import android.os.Environment;
 import android.support.annotation.NonNull;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
@@ -53,20 +51,24 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.view.ViewGroup.LayoutParams;
 import android.widget.EditText;
-import android.widget.Toast;
+import android.Manifest;
 
-import static android.R.attr.password;
-import static com.google.android.gms.internal.zzs.TAG;
+
+import static com.luxand.facerecognition.R.id.clearButton;
 
 
 public class MainActivity extends Activity implements OnClickListener {
+
+	public void viewProfile(){
+		Intent viewprof = new Intent(this, HomeActivity.class);
+		startActivity(viewprof);
+	}
 
 	FirebaseDatabase fDatabase = FirebaseDatabase.getInstance();
 	DatabaseReference userRef = fDatabase.getReference("user");
 	//Storage for Memory50.dat
 	FirebaseStorage storage = FirebaseStorage.getInstance();
-	StorageReference storageRef = storage.getReferenceFromUrl("gs://trial-project-80879.appspot.com");
-	StorageReference memoryRef = storageRef.child("Memory50.dat");
+	StorageReference memoryRef = storage.getReferenceFromUrl("gs://trial-project-80879.appspot.com/Memory50.dat");
 
 	private DatabaseReference mDatabase;
 
@@ -116,6 +118,40 @@ public class MainActivity extends Activity implements OnClickListener {
 	public void onCreate(Bundle savedInstanceState) {
 
 		super.onCreate(savedInstanceState);
+		// Here, thisActivity is the current activity
+//		boolean x = ContextCompat.checkSelfPermission(this,
+//				Manifest.permission.WRITE_EXTERNAL_STORAGE)
+//				!= PackageManager.PERMISSION_GRANTED;
+		ActivityCompat.requestPermissions(this,
+				new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 80085);
+		Log.d("***********************", "goodbye");
+//		if (ContextCompat.checkSelfPermission(this,
+//				Manifest.permission.WRITE_EXTERNAL_STORAGE)
+//				!= PackageManager.PERMISSION_GRANTED) {
+//
+//			// Should we show an explanation?
+//			if (ActivityCompat.shouldShowRequestPermissionRationale(this,
+//					Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
+//
+//				ActivityCompat.requestPermissions(this,
+//						new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 80085);
+//				Log.d("***********************", "goodbye");
+//				// Show an explanation to the user *asynchronously* -- don't block
+//				// this thread waiting for the user's response! After the user
+//				// sees the explanation, try again to request the permission.
+//
+//			} else {
+//
+//				// No explanation needed, we can request the permission.
+//
+//				ActivityCompat.requestPermissions(this,
+//						new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 80085);
+//						Log.d("**********************", "hello");
+//				// MY_PERMISSIONS_REQUEST_READ_CONTACTS is an
+//				// app-defined int constant. The callback method gets the
+//				// result of the request.
+//			}
+//		}
 		sDensity = getResources().getDisplayMetrics().scaledDensity;
 
 
@@ -139,35 +175,36 @@ public class MainActivity extends Activity implements OnClickListener {
 			mDraw.mTracker = new HTracker();
 			String templatePath = this.getApplicationInfo().dataDir + "/" + database;
 			//handles downloading the file from Google Cloud
-			String localPath = this.getApplicationInfo().dataDir + "/Memory50";
 			try {
-				File localFile = File.createTempFile(localPath, "dat");
+				File localFile = File.createTempFile("Memory", ".dat", getDir("trackerData", MODE_APPEND));
+				String localPath = localFile.getAbsolutePath();
 				memoryRef.getFile(localFile);
+//				check if tracker already exists, if not make a new one
+				if (FSDK.FSDKE_OK != FSDK.LoadTrackerMemoryFromFile(mDraw.mTracker, localPath)) {
+					res = FSDK.CreateTracker(mDraw.mTracker);
+					if (FSDK.FSDKE_OK != res) {
+						showErrorAndClose("Error creating tracker", res);
+					}
+				}
+
+				resetTrackerParameters();
+
+				this.getWindow().setBackgroundDrawable(new ColorDrawable()); //black background
+
+				setContentView(mPreview); //creates MainActivity contents
+				addContentView(mDraw, new LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT));
+
+
+				// Menu
+				LayoutInflater inflater = (LayoutInflater)this.getSystemService( Context.LAYOUT_INFLATER_SERVICE );
+				View buttons = inflater.inflate(R.layout.bottom_menu, null );
+				buttons.findViewById(R.id.helpButton).setOnClickListener(this);
+				buttons.findViewById(clearButton).setOnClickListener(this);
+				addContentView(buttons, new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT));
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
-			//check if tracker already exists, if not make a new one
-			if (FSDK.FSDKE_OK != FSDK.LoadTrackerMemoryFromFile(mDraw.mTracker, templatePath)) {
-				res = FSDK.CreateTracker(mDraw.mTracker);
-		        if (FSDK.FSDKE_OK != res) {
-		        	showErrorAndClose("Error creating tracker", res);
-		        }
-			}
 
-	        resetTrackerParameters();
-
-	        this.getWindow().setBackgroundDrawable(new ColorDrawable()); //black background
-
-	        setContentView(mPreview); //creates MainActivity contents
-			addContentView(mDraw, new LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT));
-
-
-			// Menu
-			LayoutInflater inflater = (LayoutInflater)this.getSystemService( Context.LAYOUT_INFLATER_SERVICE );
-			View buttons = inflater.inflate(R.layout.bottom_menu, null );
-			buttons.findViewById(R.id.helpButton).setOnClickListener(this);
-			buttons.findViewById(R.id.clearButton).setOnClickListener(this);
-			addContentView(buttons, new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT));
 
 		}
 	}
@@ -176,7 +213,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	public void onClick(View view) {
 		if (view.getId() == R.id.helpButton) {
 			showMessage(help_text);
-		} else if (view.getId() == R.id.clearButton) {
+		} else if (view.getId() == clearButton) {
 			AlertDialog.Builder builder = new AlertDialog.Builder(this);
 			builder.setMessage("Are you sure to clear the memory?" )
 				.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
@@ -198,20 +235,29 @@ public class MainActivity extends Activity implements OnClickListener {
 
 	@Override
 	public void onPause() {
+		//saves tracker data on app pause
+		String templatePath = this.getApplicationInfo().dataDir + "/" + database;
+		//handles downloading the file from Google Cloud
+
 		super.onPause();
 		pauseProcessingFrames();
-		String templatePath = this.getApplicationInfo().dataDir + "/" + database;
+		templatePath = this.getApplicationInfo().dataDir + "/" + database;
 		FSDK.SaveTrackerMemoryToFile(mDraw.mTracker, templatePath);
+		//take the new trackers and add them to the database in Google Cloud
 		Uri file = Uri.fromFile(new File(templatePath));
-		memoryRef = storageRef.child(file.getLastPathSegment());
 		UploadTask upload =  memoryRef.putFile(file);
-
+		String localPath = this.getApplicationInfo().dataDir;
 
 	}
 
 	@Override
 	public void onResume() {
 		super.onResume();
+//		try {
+//			File localFile = File.createTempFile("Memory", "dat", Environment.getDataDirectory());
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
 		if (mIsFailed)
             return;
         resumeProcessingFrames();
@@ -530,17 +576,24 @@ class Preview extends SurfaceView implements SurfaceHolder.Callback {
 		mHolder.setType(SurfaceHolder.SURFACE_TYPE_PUSH_BUFFERS);
 	}
 
+
 	//SurfaceView callback
 	public void surfaceCreated(SurfaceHolder holder) {
+
 		mFinished = false;
-				
+		int cameraId = 1;
+
 		// Find the ID of the camera
-		int cameraId = 0;
+
 		boolean frontCameraFound = false;
+		boolean backCameraFound = false;
 		Camera.CameraInfo cameraInfo = new Camera.CameraInfo();
 		for (int i = 0; i < Camera.getNumberOfCameras(); i++) {
 			Camera.getCameraInfo(i, cameraInfo);
-			//if (cameraInfo.facing == Camera.CameraInfo.CAMERA_FACING_BACK)
+			if (cameraInfo.facing == Camera.CameraInfo.CAMERA_FACING_BACK){
+				cameraId = i;
+				backCameraFound = true;
+			}
 			if (cameraInfo.facing == Camera.CameraInfo.CAMERA_FACING_FRONT) {
 				cameraId = i;
 				frontCameraFound = true;
@@ -670,4 +723,6 @@ class Preview extends SurfaceView implements SurfaceHolder.Callback {
 			this.invalidate();
 		}		
 	}
+
+
 } // end of Preview class

@@ -11,13 +11,13 @@
                     "endOffset": 196
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 55,
                         "endColumn": 95,
-                        "endOffset": 382
+                        "endOffset": 146
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 303
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 387,
+                        "startOffset": 151,
                         "endColumn": 106,
-                        "endOffset": 489
+                        "endOffset": 253
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 426
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 494,
+                        "startOffset": 258,
                         "endColumn": 122,
-                        "endOffset": 612
+                        "endOffset": 376
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 521
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 617,
+                        "startOffset": 381,
                         "endColumn": 94,
-                        "endOffset": 707
+                        "endOffset": 471
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 621
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 712,
+                        "startOffset": 476,
                         "endColumn": 99,
-                        "endOffset": 807
+                        "endOffset": 571
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 703
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 812,
+                        "startOffset": 576,
                         "endColumn": 81,
-                        "endOffset": 889
+                        "endOffset": 653
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 800
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 894,
+                        "startOffset": 658,
                         "endColumn": 96,
-                        "endOffset": 986
+                        "endOffset": 750
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 906
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 991,
+                        "startOffset": 755,
                         "endColumn": 105,
-                        "endOffset": 1092
+                        "endOffset": 856
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 982
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1097,
+                        "startOffset": 861,
                         "endColumn": 75,
-                        "endOffset": 1168
+                        "endOffset": 932
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 1058
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1173,
+                        "startOffset": 937,
                         "endColumn": 75,
-                        "endOffset": 1244
+                        "endOffset": 1008
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 1136
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1249,
+                        "startOffset": 1013,
                         "endColumn": 77,
-                        "endOffset": 1322
+                        "endOffset": 1086
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 1232
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1327,
+                        "startOffset": 1091,
                         "endColumn": 95,
-                        "endOffset": 1418
+                        "endOffset": 1182
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 1328
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1423,
+                        "startOffset": 1187,
                         "endColumn": 95,
-                        "endOffset": 1514
+                        "endOffset": 1278
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 1423
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1519,
+                        "startOffset": 1283,
                         "endColumn": 94,
-                        "endOffset": 1609
+                        "endOffset": 1373
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 1520
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1614,
+                        "startOffset": 1378,
                         "endColumn": 96,
-                        "endOffset": 1706
+                        "endOffset": 1470
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1615
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1711,
+                        "startOffset": 1475,
                         "endColumn": 94,
-                        "endOffset": 1801
+                        "endOffset": 1565
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1713
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1806,
+                        "startOffset": 1570,
                         "endColumn": 97,
-                        "endOffset": 1899
+                        "endOffset": 1663
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1825
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1904,
+                        "startOffset": 1668,
                         "endColumn": 111,
-                        "endOffset": 2011
+                        "endOffset": 1775
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1919
                 },
                 "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2016,
+                        "startOffset": 1780,
                         "endColumn": 93,
-                        "endOffset": 2105
+                        "endOffset": 1869
                     }
                 }
             },
@@ -691,402 +691,36 @@
                     "startLine": 38,
                     "startColumn": 4,
                     "startOffset": 4095,
-                    "endColumn": 100,
-                    "endOffset": 4191
-                },
-                "from": {
-                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2110,
-                        "endColumn": 100,
-                        "endOffset": 2206
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 95,
-                    "endOffset": 146
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 95,
-                        "endOffset": 382
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 151,
-                    "endColumn": 106,
-                    "endOffset": 253
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 387,
-                        "endColumn": 106,
-                        "endOffset": 489
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 258,
-                    "endColumn": 122,
-                    "endOffset": 376
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 494,
-                        "endColumn": 122,
-                        "endOffset": 612
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 381,
-                    "endColumn": 94,
-                    "endOffset": 471
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 617,
-                        "endColumn": 94,
-                        "endOffset": 707
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 476,
-                    "endColumn": 99,
-                    "endOffset": 571
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 712,
-                        "endColumn": 99,
-                        "endOffset": 807
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 576,
-                    "endColumn": 81,
-                    "endOffset": 653
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 812,
-                        "endColumn": 81,
-                        "endOffset": 889
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 658,
-                    "endColumn": 96,
-                    "endOffset": 750
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 894,
-                        "endColumn": 96,
-                        "endOffset": 986
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 755,
-                    "endColumn": 105,
-                    "endOffset": 856
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 991,
-                        "endColumn": 105,
-                        "endOffset": 1092
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 861,
-                    "endColumn": 75,
-                    "endOffset": 932
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1097,
-                        "endColumn": 75,
-                        "endOffset": 1168
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 937,
-                    "endColumn": 75,
-                    "endOffset": 1008
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1173,
-                        "endColumn": 75,
-                        "endOffset": 1244
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1013,
                     "endColumn": 77,
-                    "endOffset": 1086
+                    "endOffset": 4168
                 },
                 "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1249,
-                        "endColumn": 77,
-                        "endOffset": 1322
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1091,
-                    "endColumn": 95,
-                    "endOffset": 1182
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1327,
-                        "endColumn": 95,
-                        "endOffset": 1418
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1187,
-                    "endColumn": 95,
-                    "endOffset": 1278
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1423,
-                        "endColumn": 95,
-                        "endOffset": 1514
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1283,
-                    "endColumn": 94,
-                    "endOffset": 1373
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1519,
-                        "endColumn": 94,
-                        "endOffset": 1609
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1378,
-                    "endColumn": 96,
-                    "endOffset": 1470
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1614,
-                        "endColumn": 96,
-                        "endOffset": 1706
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1475,
-                    "endColumn": 94,
-                    "endOffset": 1565
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1711,
-                        "endColumn": 94,
-                        "endOffset": 1801
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1570,
-                    "endColumn": 97,
-                    "endOffset": 1663
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1806,
-                        "endColumn": 97,
-                        "endOffset": 1899
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1668,
-                    "endColumn": 111,
-                    "endOffset": 1775
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1904,
-                        "endColumn": 111,
-                        "endOffset": 2011
+                        "startOffset": 1874,
+                        "endColumn": 77,
+                        "endOffset": 1947
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 1780,
-                    "endColumn": 93,
-                    "endOffset": 1869
+                    "startOffset": 4173,
+                    "endColumn": 100,
+                    "endOffset": 4269
                 },
                 "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "file": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 2016,
-                        "endColumn": 93,
-                        "endOffset": 2105
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1874,
-                    "endColumn": 100,
-                    "endOffset": 1970
-                },
-                "from": {
-                    "file": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2110,
+                        "startOffset": 1952,
                         "endColumn": 100,
-                        "endOffset": 2206
+                        "endOffset": 2048
                     }
                 }
             }

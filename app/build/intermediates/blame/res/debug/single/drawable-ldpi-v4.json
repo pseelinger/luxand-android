@@ -2,13 +2,5 @@
     {
         "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
-        "source": "C:\\Program Files (x86)\\Luxand\\FaceSDK\\samples\\LiveRecognition\\AndroidStudio\\LiveRecognition\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
-        "source": "C:\\Users\\Patrick Seelinger\\Documents\\LiveRecognition\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
     }
 ]

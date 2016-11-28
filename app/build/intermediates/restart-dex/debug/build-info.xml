@@ -5,32 +5,32 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="247103813633546"
-    token="-700178052335870623"
+    timestamp="856385899285763"
+    token="-7303437242832456236"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="306" />
+        duration="737" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="139" />
+        duration="1255" />
     <task
         name="verifier"
-        duration="18" />
+        duration="165" />
 
     <artifact
         location="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="711226086149578"
+        timestamp="856385899285763"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Program Files (x86)\Luxand\FaceSDK\samples\LiveRecognition\AndroidStudio\LiveRecognition\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

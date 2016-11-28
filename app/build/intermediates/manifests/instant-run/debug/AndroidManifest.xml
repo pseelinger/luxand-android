@@ -8,15 +8,16 @@
         android:minSdkVersion="14"
         android:targetSdkVersion="22" />
 
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
     <uses-feature android:name="android.hardware.camera" />
     <uses-feature
         android:name="android.hardware.camera.autofocus"
         android:required="false" />
 
-    <uses-permission android:name="android.permission.CAMERA" />
-
-    <!-- Required permission for App measurement to run. -->
-    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
@@ -25,23 +26,30 @@
         android:name="com.luxand.facerecognition.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.luxand.facerecognition.permission.C2D_MESSAGE" /> <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> -->
+    <uses-permission android:name="com.luxand.facerecognition.permission.C2D_MESSAGE" />
+
     <application
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen" >
-        <activity
-            android:name="com.luxand.facerecognition.MainActivity"
-            android:screenOrientation="portrait" >
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.luxand.facerecognition.HomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.luxand.facerecognition.MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity android:name="com.luxand.facerecognition.CreateAccount" />
+        <activity android:name="com.luxand.facerecognition.login_activity" />
+        <activity android:name="com.luxand.facerecognition.ProfileActivity" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

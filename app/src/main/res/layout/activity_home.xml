@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8BC06A"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.alma19.myapplication.HomeActivity">
+
+    <Button
+        android:text="SIGN IN"
+        android:layout_width="10000dp"
+        android:layout_height="wrap_content"
+        android:background="#e97748"
+        android:textSize="15sp"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:id="@+id/but2"
+        android:layout_marginTop="74dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="CREATE ACCOUNT "
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:textSize="15sp"
+        android:textColor="#8BC06A"
+        android:textStyle="bold"
+        android:id="@+id/but1"
+        android:elevation="0dp"
+        android:layout_width="10000dp"
+        android:onClick="sendMessage"
+        android:layout_below="@+id/but2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="45dp" />
+
+    <TextView
+        android:text="arnold. "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textSize="50sp"
+        android:id="@+id/textView"
+        android:layout_marginTop="178dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="99dp"
+        android:layout_marginEnd="99dp" />
+</RelativeLayout>
