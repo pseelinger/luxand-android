@@ -277,7 +277,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="31bfca977ccf7ebe9f773542bd59656dd9fb5d74">
+        sha1="b009885bfc0759194d5ccc8b4e6d4cfcbcc2c6d7">
         <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9febf3466c7dba8c77949b1f8e7d40be4fd8a6eb\classes.dex" />
     </item>
     <item
@@ -313,7 +313,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="114872cec1ad430e2f0cb421a1cd2d8e85de8ed3">
+        sha1="7a94dec77018feea679f565de251caa432a101b6">
         <dex dex="C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_55913e1071b8d56ffe4691087e7329c7c4ff78ba\classes.dex" />
     </item>
     <item

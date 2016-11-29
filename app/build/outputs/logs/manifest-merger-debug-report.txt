@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml
@@ -24,26 +24,22 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] C:\Users\Patrick
 MERGED from [com.google.firebase:firebase-iid:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:6:22-64
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:7:5-80
-	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:7:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:8:5-81
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:7:22-78
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:10:5-60
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:9:5-60
 	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:10:19-57
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:9:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:11:5-13:36
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:10:5-12:36
 	android:required
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:13:9-33
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:12:9-33
 	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:12:9-57
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:11:9-57
 application
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:16:5-37:19
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:15:5-36:19
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
@@ -65,49 +61,49 @@ MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\Patrick S
 MERGED from [com.google.firebase:firebase-auth-common:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\AndroidManifest.xml:19:5-20:19
 MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\AndroidManifest.xml:19:5-25:19
 	android:label
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:19:9-41
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:18:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:19:9-35
 	android:allowBackup
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:16:9-35
 	android:icon
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:18:9-45
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:17:9-45
 	android:theme
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:21:9-40
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:20:9-40
 activity#com.luxand.facerecognition.HomeActivity
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:22:9-28:20
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:21:9-27:20
 	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:22:19-47
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:21:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.luxand.facerecognition.MainActivity
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:29:9-33:20
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:28:9-32:20
 	android:screenOrientation
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:31:13-49
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:30:13-49
 	android:exported
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:32:13-36
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:31:13-36
 	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:30:13-41
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:29:13-41
 activity#com.luxand.facerecognition.CreateAccount
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:34:9-51
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:33:9-51
 	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:34:19-48
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:33:19-48
 activity#com.luxand.facerecognition.login_activity
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:35:9-52
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:34:9-52
 	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:35:19-49
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:34:19-49
 activity#com.luxand.facerecognition.ProfileActivity
-ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:36:9-53
+ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:35:9-53
 	android:name
-		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:36:19-50
+		ADDED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml:35:19-50
 uses-sdk
 INJECTED from C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Patrick Seelinger\Documents\LiveRecognition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78

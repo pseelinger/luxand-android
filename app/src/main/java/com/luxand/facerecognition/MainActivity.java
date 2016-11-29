@@ -176,16 +176,29 @@ public class MainActivity extends Activity implements OnClickListener {
 			String templatePath = this.getApplicationInfo().dataDir + "/" + database;
 			//handles downloading the file from Google Cloud
 			try {
-				File localFile = File.createTempFile("Memory", ".dat", getDir("trackerData", MODE_APPEND));
-				String localPath = localFile.getAbsolutePath();
-				memoryRef.getFile(localFile);
-//				check if tracker already exists, if not make a new one
-				if (FSDK.FSDKE_OK != FSDK.LoadTrackerMemoryFromFile(mDraw.mTracker, localPath)) {
-					res = FSDK.CreateTracker(mDraw.mTracker);
-					if (FSDK.FSDKE_OK != res) {
-						showErrorAndClose("Error creating tracker", res);
+				final File localFile = File.createTempFile("Memory", ".dat");
+				memoryRef.getFile(localFile).addOnSuccessListener(new OnSuccessListener<FileDownloadTask.TaskSnapshot>() {
+					@Override
+					public void onSuccess(FileDownloadTask.TaskSnapshot taskSnapshot) {
+						// Local temp file has been created
+						String localPath = localFile.getPath();
+						if (FSDK.FSDKE_OK != FSDK.LoadTrackerMemoryFromFile(mDraw.mTracker, localPath)) {
+							int res = FSDK.CreateTracker(mDraw.mTracker);
+							if (FSDK.FSDKE_OK != res) {
+								showErrorAndClose("Error creating tracker", res);
+							}
+						}
 					}
-				}
+				}).addOnFailureListener(new OnFailureListener() {
+					@Override
+					public void onFailure(@NonNull Exception exception) {
+						// Handle any errors
+					}
+				});
+
+
+//				check if tracker already exists, if not make a new one
+
 
 				resetTrackerParameters();
 
@@ -201,10 +214,12 @@ public class MainActivity extends Activity implements OnClickListener {
 				buttons.findViewById(R.id.helpButton).setOnClickListener(this);
 				buttons.findViewById(clearButton).setOnClickListener(this);
 				addContentView(buttons, new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.MATCH_PARENT));
+
+
+
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
-
 
 		}
 	}
