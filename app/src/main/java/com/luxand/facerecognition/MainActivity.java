@@ -2,6 +2,9 @@ package com.luxand.facerecognition;
 
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.firebase.FirebaseApp;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.storage.FileDownloadTask;
@@ -63,14 +66,9 @@ public class MainActivity extends Activity implements OnClickListener {
 		Intent viewprof = new Intent(this, HomeActivity.class);
 		startActivity(viewprof);
 	}
-
-	FirebaseDatabase fDatabase = FirebaseDatabase.getInstance();
-	DatabaseReference userRef = fDatabase.getReference("user");
 	//Storage for Memory50.dat
 	FirebaseStorage storage = FirebaseStorage.getInstance();
 	StorageReference memoryRef = storage.getReferenceFromUrl("gs://trial-project-80879.appspot.com/Memory50.dat");
-
-	private DatabaseReference mDatabase;
 
     private boolean mIsFailed = false;
 	private Preview mPreview;
@@ -118,40 +116,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	public void onCreate(Bundle savedInstanceState) {
 
 		super.onCreate(savedInstanceState);
-		// Here, thisActivity is the current activity
-//		boolean x = ContextCompat.checkSelfPermission(this,
-//				Manifest.permission.WRITE_EXTERNAL_STORAGE)
-//				!= PackageManager.PERMISSION_GRANTED;
-		ActivityCompat.requestPermissions(this,
-				new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 80085);
-		Log.d("***********************", "goodbye");
-//		if (ContextCompat.checkSelfPermission(this,
-//				Manifest.permission.WRITE_EXTERNAL_STORAGE)
-//				!= PackageManager.PERMISSION_GRANTED) {
-//
-//			// Should we show an explanation?
-//			if (ActivityCompat.shouldShowRequestPermissionRationale(this,
-//					Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
-//
-//				ActivityCompat.requestPermissions(this,
-//						new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 80085);
-//				Log.d("***********************", "goodbye");
-//				// Show an explanation to the user *asynchronously* -- don't block
-//				// this thread waiting for the user's response! After the user
-//				// sees the explanation, try again to request the permission.
-//
-//			} else {
-//
-//				// No explanation needed, we can request the permission.
-//
-//				ActivityCompat.requestPermissions(this,
-//						new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 80085);
-//						Log.d("**********************", "hello");
-//				// MY_PERMISSIONS_REQUEST_READ_CONTACTS is an
-//				// app-defined int constant. The callback method gets the
-//				// result of the request.
-//			}
-//		}
+
 		sDensity = getResources().getDisplayMetrics().scaledDensity;
 
 
@@ -302,6 +267,13 @@ class FaceRectangle {
 
 // Draw graphics on top of the video
 class ProcessImageAndDrawResults extends View {
+
+	//Firebase auth and database stuff
+	private FirebaseAuth firebaseAuth = FirebaseAuth.getInstance();
+	FirebaseDatabase fDatabase = FirebaseDatabase.getInstance();
+	DatabaseReference fDatabaseReference = fDatabase.getReference();
+	FirebaseUser user = firebaseAuth.getCurrentUser();
+
 	public HTracker mTracker;
 	
 	final int MAX_FACES = 5;
@@ -520,6 +492,8 @@ class ProcessImageAndDrawResults extends View {
 								FSDK.LockID(mTracker, mTouchedID);
 								String userName = input.getText().toString();
 								FSDK.SetName(mTracker, mTouchedID, userName);
+								//store the tracker ID in firebase
+								fDatabaseReference.child(user.getUid()).child("FaceID").setValue(mTracker);
 								if (userName.length() <= 0) FSDK.PurgeID(mTracker, mTouchedID);
 								FSDK.UnlockID(mTracker, mTouchedID);
 								mTouchedIndex = -1;
